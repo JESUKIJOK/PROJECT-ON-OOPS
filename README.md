@@ -26,7 +26,6 @@ A Python console application demonstrating core Object-Oriented Programming (OOP
 ## Project Structure
 
 ```text
-PROJECT-ON-OOPS/
-└── ASSESMENT/
-    ├── ASSESMENT.py
-    └── README.md
+.
+├── ASSESMENT.py    # Main implementation script containing OOP models and execution demo
+└── README.md       # Project documentation
